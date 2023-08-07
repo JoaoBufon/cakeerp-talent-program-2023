@@ -6,3 +6,4 @@
 
 ## Contributors
 
+- João Bufon <jvbufon75@gmail.com>
